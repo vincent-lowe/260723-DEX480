@@ -51,6 +51,9 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Angela|Bob James|Theme from Taxi|
+|Smooth Criminal|Luca Stricagnoli|Instrumental cover of Michael Jackson song|
+|Sixteen Tons|Geoff Castellucci|All voices are Geoff|
+
 
 
 
