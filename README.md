@@ -54,7 +54,8 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnoli|Instrumental cover of Michael Jackson song|
 |Sixteen Tons|Geoff Castellucci|All voices are Geoff|
 |Just Dropped In (To See What Condition My Condition Was In|Willie Nelson||
-
+|You Go To My Head|Louis Armstrong and Oscar Peterson||
+|This Old Town|Nanci Griffith||
 
 
 
