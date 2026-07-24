@@ -61,4 +61,5 @@ Classroom Playlist
 |Walking Stick|Leon Redbone|
 |Midnight Train to Georgia|Gladys Knight and the Pips|backup singer time!|
 |The Final Countdown|Europe||
+|Crazy He Calls Me|Billie Holiday||
 
