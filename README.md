@@ -56,6 +56,7 @@ Classroom Playlist
 |Just Dropped In (To See What Condition My Condition Was In|Willie Nelson||
 |You Go To My Head|Louis Armstrong and Oscar Peterson||
 |This Old Town|Nanci Griffith||
-
+|City of New Orleans|Arlo Guthrie|"oldies are goodies" - archana said|
+|Hotel California|Moyun|This instrument doesn't have all the notes needed for this song|
 
 
